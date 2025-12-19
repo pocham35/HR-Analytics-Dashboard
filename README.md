@@ -55,13 +55,13 @@ This dashboard helps answer these questions clearly using visual analytics.
 
 # 🛠 Tools & Technologies Used
 
-# Power BI – Dashboard creation & visualization
+-> Power BI – Dashboard creation & visualization
 
-# Microsoft Excel – Data review
+-> Microsoft Excel – Data review
 
-# Data Modeling – Relationships and measures
+-> Data Modeling – Relationships and measures
 
-# DAX – Aggregations and calculations
+->  DAX – Aggregations and calculations
 
 # 📊 Dashboard Components & Explanation
 
